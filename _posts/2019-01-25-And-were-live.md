@@ -1,6 +1,7 @@
 ---
 layout: post
 title: And we're live!
+comments: true
 ---
 After having redone [my CV in markdown through GitHub Pages](https://harmtemolder.github.io/cv/), I thought this'd be a great opportunity to get [harmtemolder.nl]({{ site.baseurl }}) live again as well. Nothing special, just my blog. There are many like it, but this one is mine.
 

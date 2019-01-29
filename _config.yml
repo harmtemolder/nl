@@ -17,20 +17,27 @@ avatar: https://avatars0.githubusercontent.com/u/8167752?s=460&v=4
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  bitcoin: https://www.binance.com/?ref=25685529 # a Bitcoin-related link, e.g. a Binance referral link like https://www.binance.com/?ref=25685529
   dribbble:
-  email: mail@harmtemolder.nl
+  ethereum: https://www.binance.com/?ref=25685529 # an Ethereum-related link, e.g. a Binance referral link like https://www.binance.com/?ref=25685529
   facebook:
   flickr: harmtemolder
+  gmail: mail@harmtemolder.nl # your email address goes here or at outlook, probably
+  goodreads: user/show/38080398-harm-te-molder # your goodreads profile, e.g. user/show/38080398-harm-te-molder
+  googleplus: # anything in your profile username that comes after plus.google.com/
   github: harmtemolder
   instagram: sixwheelseast
   linkedin: harmtemolder
+  outlook: mail@harmtemolder.nl # your email address goes here or at gmail, probably
+  paypal: harmtemolder # your PayPal.Me name, e.g. harmtemolder
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  quora: profile/Harm-te-Molder # your Quora profile, e.g. profile/Harm-te-Molder
+  rss: does anyone actually use RSS? # just type anything here for a working RSS icon
+  stackexchange: # your stackexchange profile, e.g. "users/2158543/harm-te-molder"
+  stackoverflow: users/1913230/harm-te-molder # your stackoverflow profile, e.g. "users/1913230/harm-te-molder"
   twitter:
-  stackoverflow: users/1913230/harm-te-molder # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  whatsapp: 31642696616 # international phone number without leading "+" or "00", e.g. "31642696616"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
